@@ -1,0 +1,47 @@
+{
+  "item_name": "Kukri Machete",
+  "item_key": "Kukri",
+  "item_comment": "Kukri!",
+  "serial_item_min": 1730,
+  "serial_item_next": 5,
+  "slot_location_xy": [
+    [
+      164,
+      183
+    ],
+    [
+      164,
+      262
+    ],
+    [
+      164,
+      340
+    ],
+    [
+      164,
+      418
+    ],
+    [
+      164,
+      496
+    ]
+  ],
+  "master_coord": [
+    345,
+    375,
+    320,
+    70
+  ],
+  "item_coord": [
+    376,
+    375,
+    258,
+    48
+  ],
+  "serial_coord": [
+    348,
+    418,
+    56,
+    25
+  ]
+}

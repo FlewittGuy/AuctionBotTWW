@@ -1,0 +1,197 @@
+{
+  "Kukri Machete": [
+    "Kukri",
+    1730,
+    5,
+    [
+      348,
+      418,
+      56,
+      25
+    ],
+    "Kukri!",
+    true
+  ],
+  "Lancaster Pistol": [
+    "Lancaster",
+    10676,
+    5,
+    [
+      378,
+      418,
+      56,
+      25
+    ],
+    "Lancaster!",
+    true
+  ],
+  "Paterson Navy": [
+    "Paterson",
+    9676,
+    5,
+    [
+      356,
+      418,
+      58,
+      25
+    ],
+    "Paterson!",
+    true
+  ],
+  "Guycot Chain Pistol": [
+    "Guycot Chain Pis",
+    12840,
+    5,
+    [
+      352,
+      418,
+      58,
+      25
+    ],
+    "Guycot Chain Pistol!",
+    true
+  ],
+  "Guycot Chain Carbine": [
+    "Guycot Chain Car",
+    12919,
+    5,
+    [
+      352,
+      418,
+      58,
+      25
+    ],
+    "Guycot Chain Carbine!",
+    true
+  ],
+  "Schwarzlose Prototype Pistol": [
+    "Schwa",
+    11901,
+    5,
+    [
+      376,
+      418,
+      58,
+      25
+    ],
+    "Schwarzlose!",
+    true
+  ],
+  "Spitfire Revolving Sniper": [
+    "Spit",
+    4693,
+    5,
+    [
+      350,
+      418,
+      56,
+      25
+    ],
+    "SPITFIRE!",
+    true
+  ],
+  "Fiddle": [
+    "Fiddle",
+    10874,
+    5,
+    [
+      445,
+      418,
+      58,
+      25
+    ],
+    "Fiddle!",
+    false
+  ],
+  "Drum": [
+    "Drum",
+    12939,
+    5,
+    [
+      445,
+      418,
+      58,
+      25
+    ],
+    "Drum!",
+    false
+  ],
+  "Harmonica": [
+    "Harmonica",
+    12841,
+    5,
+    [
+      425,
+      418,
+      58,
+      25
+    ],
+    "Harmonica!",
+    false
+  ],
+  "Trumpet": [
+    "Trumpet",
+    13010,
+    5,
+    [
+      436,
+      418,
+      58,
+      25
+    ],
+    "Trumpet!",
+    false
+  ],
+  "Accordion": [
+    "Accordion",
+    9737,
+    5,
+    [
+      422,
+      418,
+      58,
+      25
+    ],
+    "Accordion!",
+    false
+  ],
+  "Black Market Key": [
+    "Black Market Key",
+    160539,
+    5,
+    [
+      360,
+      418,
+      64,
+      25
+    ],
+    "Black Market Key!",
+    false
+  ],
+    "Guitar": [
+    "Guitar",
+    9557,
+    5,
+    [
+      404,
+      418,
+      58,
+      25
+    ],
+    "Guitar!",
+    false
+  ],
+     "Flute": [
+    "Flute",
+    11989,
+    5,
+    [
+      449,
+      418,
+      58,
+      25
+    ],
+    "Flute!",
+    false
+  ]
+}
